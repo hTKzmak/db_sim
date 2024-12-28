@@ -12,6 +12,7 @@
     "vite": "^6.0.5"
   },
   "dependencies": {
+    "gh-pages": "^6.2.0",
     "phaser": "^3.87.0"
   }
 }
